@@ -18,8 +18,8 @@ To write a JAVA program to implement Tower of Hanoi
 ```
 /*
 Program to to count the number of digits in an integer
-Developed by: SUBBIAH S
-RegisterNumber: 212223220111
+Developed by: Vamsi Krishna G
+RegisterNumber: 212223220120
 
 import java.util.Scanner;
 
